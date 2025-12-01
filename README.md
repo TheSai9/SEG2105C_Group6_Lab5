@@ -14,7 +14,7 @@ This is an Android application created for a university lab assignment. The app 
 
 | Main Activity                                       | Profile Avatar Selection                                |
 | --------------------------------------------------- | ------------------------------------------------------- |
-| ![Main Activity](link-to-your-main-activity-screenshot.png) | ![Profile Activity](link-to-your-profile-activity-screenshot.png) |
+| ![Main Activity](https://github.com/user-attachments/assets/49a2f024-c0fd-4bd2-b96f-424895b5e671) | ![Profile Activity](https://github.com/user-attachments/assets/610a2d0c-b7b5-467b-9cc0-c6bc46660cc5) |
 
 ## Technologies Used
 
@@ -32,7 +32,7 @@ This is an Android application created for a university lab assignment. The app 
 
 1.  **Clone the Repository**:
     ```sh
-    git clone <your-repository-url>
+    git clone https://github.com/TheSai9/SEG2105C_Group6_Lab5
     ```
 
 2.  **Open in Android Studio**:
@@ -55,3 +55,9 @@ This is an Android application created for a university lab assignment. The app 
     -   Let Android Studio sync the Gradle files.
     -   Run the app on an Android emulator or a physical device.
     -   **Note**: To test the Google Maps feature, you must run the app on an emulator that includes the **Google Play Store**. You can create one via the AVD Manager.
+  
+## Demo Video
+
+https://github.com/user-attachments/assets/19f9ca13-407d-4408-bac3-6b05c0c72f59
+
+
