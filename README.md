@@ -10,8 +10,6 @@ This is an Android application created for a university lab assignment. The app 
 
 ## Screenshots
 
-*(It is highly recommended to add screenshots of your app here. Replace these placeholders with your own images.)*
-
 | Main Activity                                       | Profile Avatar Selection                                |
 | --------------------------------------------------- | ------------------------------------------------------- |
 | ![Main Activity](https://github.com/user-attachments/assets/49a2f024-c0fd-4bd2-b96f-424895b5e671) | ![Profile Activity](https://github.com/user-attachments/assets/610a2d0c-b7b5-467b-9cc0-c6bc46660cc5) |
